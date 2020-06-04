@@ -4,7 +4,7 @@ The eip example launches a web server, installs nginx. It also creates security 
 
 To run, configure your AWS provider as described in https://www.terraform.io/docs/providers/aws/index.html
 
-1)Running the example
+1) Running the example
 ```
 run `terraform apply -auto-approve` 
 outputs:
